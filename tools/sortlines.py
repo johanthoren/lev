@@ -20,7 +20,7 @@ def get_text():
         if verse:
             for i in verse:
                 print(r'\v {} {}'.format(i[0].strip(), i[1].strip()))
-                print(r'\p')
+            print(r'\p')
         else:
             print(line.strip())
 
