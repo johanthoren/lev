@@ -1,6 +1,6 @@
 # TODO
 * Add the following texts and sort lines into chapter and verse:
- * 01 Bereshiyt (Genesis)
+ * ~~01 Bereshiyt (Genesis)~~
  * 02 Shemoth (Exodus)
  * 03 Vayyiqra (Leviticus)
  * 04 Bemidbar (Numbers)
@@ -67,6 +67,6 @@
  * 65 Ivrim (Hebrews)
  * 66 Hit'galut (Revelation)
 * Add markup to the following completed texts:
- * (No texts are yet completed.)
+ * * 01 Bereshiyt (Genesis)
 * Proof reading the following completed and marked up texts:
  * (No texts are yet completed and marked up.)
