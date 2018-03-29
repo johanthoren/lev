@@ -2,9 +2,9 @@
 ## Add the following texts and sort lines into chapter and verse:
 - [x] 01 Bereshiyt (Genesis)
 - [x] 02 Shemoth (Exodus)
-- [] 03 Vayyiqra (Leviticus)
-- [] 04 Bemidbar (Numbers)
-- [] 05 Devarim (Deuteronomy)
+- [x] 03 Vayyiqra (Leviticus)
+- [x] 04 Bemidbar (Numbers)
+- [x] 05 Devarim (Deuteronomy)
 - [] 06 Yehoshua (Joshua)
 - [] 07 Shofetim (Judges)
 - [] 08 Shemu'el א (1 Samuel)
@@ -69,5 +69,8 @@
 ## Add markup to the following completed texts:
 - [] 01 Bereshiyt (Genesis) WORK IN PROGRESS
 - [] 02 Shemoth (Exodus)
+- [] 03 Vayyiqra (Leviticus)
+- [] 04 Bemidbar (Numbers)
+- [] 05 Devarim (Deuteronomy)
 ## Proof reading the following completed and marked up texts:
 - (No texts are yet completed and marked up.)
