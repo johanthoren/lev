@@ -72,7 +72,7 @@ def find_1_and_2(sorted_content):
                     potential_chapter_1 = sorted_content[j - k]
                     if potential_chapter_1.startswith(r'\v 1 '):
                         logging.debug(
-                            'found potential_chapter_1:\n %s',
+                            'found potential_chapter_1:\n%s',
                             potential_chapter_1,
                         )
                         logging.debug('j is %s and k is %s', j, k)
@@ -96,13 +96,16 @@ def find_1_and_2(sorted_content):
 
             if chapter_2_known is False and chapter_1_known is True:
                 logging.debug('Now trying to find chapter 2.')
+                logging.debug('Testing the following verse:\n%s', item)
                 for k in range(1, 6):
                     potential_chapter_2 = sorted_content[j - k]
                     if potential_chapter_2 == false_chapter_2:
+                        logging.debug('Found false positive:\n%s',
+                                      potential_chapter_2)
                         continue
                     if potential_chapter_2.startswith(r'\v 2 '):
                         logging.debug(
-                            'found potential_chapter_2:\n %s',
+                            'found potential_chapter_2:\n%s',
                             potential_chapter_2,
                         )
                         logging.debug('j is %s and k is %s', j, k)
