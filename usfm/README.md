@@ -18,7 +18,7 @@
 - [x] 16 Yo'el (Joel)
 - [x] 17 Amos
 - [x] 18 Ovadyah (Obadiah)
-- [] 19 Yonah (Jonah)
+- [x] 19 Yonah (Jonah)
 - [] 20 Mikhah (Micah)
 - [] 21 Naḥum (Nahum)
 - [] 22 Ḥavaqquq (Habakkuk)
@@ -85,5 +85,6 @@
 - [] 16 Yo'el (Joel)
 - [] 17 Amos
 - [] 18 Ovadyah (Obadiah)
+- [] 19 Yonah (Jonah)
 ## Proof reading the following completed and marked up texts:
 - (No texts are yet completed and marked up.)
