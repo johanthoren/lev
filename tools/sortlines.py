@@ -27,11 +27,9 @@ def main():
         numbered_content = first_and_second[0]
         chapter_1_known = first_and_second[1]
         false_chapter_2 = first_and_second[2]
-        j = first_and_second[3]
 
         if chapter_1_known is True:
-            unclean_content = find_the_rest(numbered_content, false_chapter_2,
-                                            j)
+            unclean_content = find_the_rest(numbered_content, false_chapter_2)
         else:
             raise Exception('Unable to find chapters 1 and 2')
 
@@ -71,16 +69,23 @@ def find_1(sorted_content):
                 for k in range(1, 6):
                     logging.debug('j is %s and k is %s', j, k)
                     potential_chapter_1 = sorted_content[j - k]
-                    logging.debug('Potential_chapter_1 is:\n%s',
+                    logging.debug('Potential_chapter_1 is: %s',
                                   potential_chapter_1)
                     if potential_chapter_1.startswith(r'\v 1 '):
                         logging.debug(
-                            'found potential_chapter_1:\n%s',
+                            'found potential_chapter_1: %s',
                             potential_chapter_1,
                         )
                         logging.debug('j is %s and k is %s', j, k)
                         chapter_1_known = True
-                        false_chapter_2 = sorted_content[(j - k) + 1]
+
+                        for v in range(1, 4):
+                            if sorted_content[(j - k)
+                                              + v].startswith('\\v 2 '):
+                                false_chapter_2 = sorted_content[(j - k) + v]
+                                logging.debug('false_chapter_2 found: %s',
+                                              false_chapter_2)
+                                break
 
                         c1 = r'\c 1'
 
@@ -103,32 +108,46 @@ def find_1(sorted_content):
 
 
 def find_the_rest(numbered_content, false_chapter_2, j):
+    j = 0
     chapter = 2
+    logging.debug('Length of numbered_content is: %s', len(numbered_content))
     while chapter < len(numbered_content) - j:
         logging.debug('Now trying to find chapter %s.', chapter)
         logging.debug('j is %s', j)
+        logging.debug('Remaining entries in numbered_content are: %s',
+                      len(numbered_content) - j)
 
         for item in numbered_content:
             v2 = V2_RE.findall(item)
             if v2:
+                # logging.debug('item is:\n%s', item)
                 try:
                     for k in range(1, 4):
                         potential_chapter = numbered_content[j - k]
                         if potential_chapter == false_chapter_2:
+                            logging.debug('Found false positive chapter 2,'
+                                          'moving on. Item was: %s',
+                                          potential_chapter)
                             break
                         if potential_chapter.startswith(
                                 r'\v {} '.format(chapter)):
 
+                            logging.debug(
+                                'Testing if the verse is actually the first'
+                                'in the chapter: %s', potential_chapter)
                             first = False
-                            for l in range(1, 4):
+                            for l in range(1, 5):
                                 n_verse = numbered_content[(j - k) + l]
+                                logging.debug('...Testing: %s', n_verse)
                                 if n_verse.startswith(r'\v 2 '):
+                                    logging.debug('---Success! First verse in'
+                                                  'chapter %s found!', chapter)
                                     first = True
                                     break
 
                             if first is True:
                                 logging.debug(
-                                    'found potential_chapter:\n %s',
+                                    'found potential_chapter: %s',
                                     potential_chapter,
                                 )
                                 logging.debug('j is %s and k is %s', j, k)
@@ -150,7 +169,8 @@ def find_the_rest(numbered_content, false_chapter_2, j):
                                 break
                             continue
                 except IndexError:
-                    raise Exception('Reached end of list')
+                    raise Exception('Reached the end of the list.')
+
                 j += 1
     unclean_content = numbered_content
     return unclean_content
