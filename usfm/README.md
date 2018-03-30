@@ -8,7 +8,7 @@
 - [x] 06 Yehoshua (Joshua)
 - [x] 07 Shofetim (Judges)
 - [x] 08 Shemu'el א (1 Samuel)
-- [] 01 Shemu'el ב (2 Samuel)
+- [x] 09 Shemu'el ב (2 Samuel)
 - [] 10 Melakhim א (1 Kings)
 - [] 11 Melakhim ב (2 Kings)
 - [] 12 Yeshayahu (Isaiah)
@@ -75,5 +75,6 @@
 - [] 06 Yehoshua (Joshua)
 - [] 07 Shofetim (Judges)
 - [] 08 Shemu'el א (1 Samuel)
+- [] 09 Shemu'el ב (2 Samuel)
 ## Proof reading the following completed and marked up texts:
 - (No texts are yet completed and marked up.)
