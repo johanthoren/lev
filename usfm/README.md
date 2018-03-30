@@ -20,7 +20,7 @@
 - [x] 18 Ovadyah (Obadiah)
 - [x] 19 Yonah (Jonah)
 - [x] 20 Mikhah (Micah)
-- [] 21 Naḥum (Nahum)
+- [x] 21 Naḥum (Nahum)
 - [] 22 Ḥavaqquq (Habakkuk)
 - [] 23 Tsephanyah (Zephaniah)
 - [] 24 Ḥaggai (Haggai)
@@ -87,5 +87,6 @@
 - [] 18 Ovadyah (Obadiah)
 - [] 19 Yonah (Jonah)
 - [] 20 Mikhah (Micah)
+- [] 21 Naḥum (Nahum)
 ## Proof reading the following completed and marked up texts:
 - (No texts are yet completed and marked up.)
