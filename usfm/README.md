@@ -6,7 +6,7 @@
 - [x] 04 Bemidbar (Numbers)
 - [x] 05 Devarim (Deuteronomy)
 - [x] 06 Yehoshua (Joshua)
-- [] 07 Shofetim (Judges)
+- [x] 07 Shofetim (Judges)
 - [] 08 Shemu'el א (1 Samuel)
 - [] 01 Shemu'el ב (2 Samuel)
 - [] 10 Melakhim א (1 Kings)
@@ -73,5 +73,6 @@
 - [] 04 Bemidbar (Numbers)
 - [] 05 Devarim (Deuteronomy)
 - [] 06 Yehoshua (Joshua)
+- [] 07 Shofetim (Judges)
 ## Proof reading the following completed and marked up texts:
 - (No texts are yet completed and marked up.)
