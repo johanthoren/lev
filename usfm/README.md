@@ -22,7 +22,7 @@
 - [x] 20 Mikhah (Micah)
 - [x] 21 Naḥum (Nahum)
 - [x] 22 Ḥavaqquq (Habakkuk)
-- [] 23 Tsephanyah (Zephaniah)
+- [x] 23 Tsephanyah (Zephaniah)
 - [] 24 Ḥaggai (Haggai)
 - [] 25 Zekharyah (Zechariah)
 - [] 26 Malakhi (Malachi)
@@ -89,5 +89,6 @@
 - [] 20 Mikhah (Micah)
 - [] 21 Naḥum (Nahum)
 - [] 22 Ḥavaqquq (Habakkuk)
+- [] 23 Tsephanyah (Zephaniah)
 ## Proof reading the following completed and marked up texts:
 - (No texts are yet completed and marked up.)
