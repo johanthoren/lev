@@ -21,7 +21,7 @@
 - [x] 19 Yonah (Jonah)
 - [x] 20 Mikhah (Micah)
 - [x] 21 Naḥum (Nahum)
-- [] 22 Ḥavaqquq (Habakkuk)
+- [x] 22 Ḥavaqquq (Habakkuk)
 - [] 23 Tsephanyah (Zephaniah)
 - [] 24 Ḥaggai (Haggai)
 - [] 25 Zekharyah (Zechariah)
@@ -88,5 +88,6 @@
 - [] 19 Yonah (Jonah)
 - [] 20 Mikhah (Micah)
 - [] 21 Naḥum (Nahum)
+- [] 22 Ḥavaqquq (Habakkuk)
 ## Proof reading the following completed and marked up texts:
 - (No texts are yet completed and marked up.)
