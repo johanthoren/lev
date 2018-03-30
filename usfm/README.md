@@ -11,7 +11,7 @@
 - [x] 09 Shemu'el ב (2 Samuel)
 - [x] 10 Melakhim א (1 Kings)
 - [x] 11 Melakhim ב (2 Kings)
-- [] 12 Yeshayahu (Isaiah)
+- [x] 12 Yeshayahu (Isaiah)
 - [] 13 Yirmeyahu (Jeremiah)
 - [] 14 Yeḥezqel (Ezekiel)
 - [] 15 Hoshea (Hosea)
@@ -78,5 +78,6 @@
 - [] 09 Shemu'el ב (2 Samuel)
 - [] 10 Melakhim א (1 Kings)
 - [] 11 Melakhim ב (2 Kings)
+- [] 12 Yeshayahu (Isaiah)
 ## Proof reading the following completed and marked up texts:
 - (No texts are yet completed and marked up.)
