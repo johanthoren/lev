@@ -111,7 +111,7 @@ def find_the_rest(numbered_content, false_chapter_2):
     j = 0
     chapter = 2
     logging.debug('Length of numbered_content is: %s', len(numbered_content))
-    while chapter < len(numbered_content) - j:
+    while 2 <= len(numbered_content) - j:
         logging.debug('Now trying to find chapter %s.', chapter)
         logging.debug('j is %s', j)
         logging.debug('Remaining entries in numbered_content are: %s',
@@ -136,7 +136,7 @@ def find_the_rest(numbered_content, false_chapter_2):
                                 'Testing if the verse is actually the first'
                                 'in the chapter: %s', potential_chapter)
                             first = False
-                            for l in range(1, 5):
+                            for l in range(1, 3):
                                 n_verse = numbered_content[(j - k) + l]
                                 logging.debug('...Testing: %s', n_verse)
                                 if n_verse.startswith(r'\v 2 '):
@@ -169,8 +169,7 @@ def find_the_rest(numbered_content, false_chapter_2):
                                 break
                             continue
                 except IndexError:
-                    raise Exception('Reached the end of the list.')
-
+                    break
                 j += 1
     unclean_content = numbered_content
     return unclean_content
