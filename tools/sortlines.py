@@ -107,7 +107,7 @@ def find_1(sorted_content):
     return (numbered_content, chapter_1_known, false_chapter_2, j)
 
 
-def find_the_rest(numbered_content, false_chapter_2, j):
+def find_the_rest(numbered_content, false_chapter_2):
     j = 0
     chapter = 2
     logging.debug('Length of numbered_content is: %s', len(numbered_content))
