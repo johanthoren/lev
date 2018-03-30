@@ -16,7 +16,7 @@
 - [x] 14 Yeḥezqel (Ezekiel)
 - [x] 15 Hoshea (Hosea)
 - [x] 16 Yo'el (Joel)
-- [] 17 Amos
+- [x] 17 Amos
 - [] 18 Ovadyah (Obadiah)
 - [] 19 Yonah (Jonah)
 - [] 20 Mikhah (Micah)
@@ -83,5 +83,6 @@
 - [] 14 Yeḥezqel (Ezekiel)
 - [] 15 Hoshea (Hosea)
 - [] 16 Yo'el (Joel)
+- [] 17 Amos
 ## Proof reading the following completed and marked up texts:
 - (No texts are yet completed and marked up.)
