@@ -14,7 +14,7 @@
 - [x] 12 Yeshayahu (Isaiah)
 - [x] 13 Yirmeyahu (Jeremiah)
 - [x] 14 Yeḥezqel (Ezekiel)
-- [] 15 Hoshea (Hosea)
+- [x] 15 Hoshea (Hosea)
 - [] 16 Yo'el (Joel)
 - [] 17 Amos
 - [] 18 Ovadyah (Obadiah)
@@ -81,5 +81,6 @@
 - [] 12 Yeshayahu (Isaiah)
 - [] 13 Yirmeyahu (Jeremiah)
 - [] 14 Yeḥezqel (Ezekiel)
+- [] 15 Hoshea (Hosea)
 ## Proof reading the following completed and marked up texts:
 - (No texts are yet completed and marked up.)
