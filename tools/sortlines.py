@@ -25,9 +25,13 @@ def main():
         first_and_second = find_1(sorted_content)
 
         numbered_content = first_and_second[0]
-        false_chapter_2 = first_and_second[1]
+        chapter_1_known = first_and_second[1]
+        false_chapter_2 = first_and_second[2]
 
-        unclean_content = find_the_rest(numbered_content, false_chapter_2)
+        if chapter_1_known is True:
+            unclean_content = find_the_rest(numbered_content, false_chapter_2)
+        else:
+            raise Exception('Unable to find chapters 1 and 2')
 
         final_content = clean_up(unclean_content)
 
@@ -56,48 +60,51 @@ def split_text(text_file):
 
 def find_1(sorted_content):
     j = 0
-    false_chapter_2 = None
+    chapter_1_known = False
     for item in sorted_content:
         v2 = V2_RE.findall(item)
         if v2:
-            logging.debug('Now trying to find chapter 1.')
-            for k in range(1, 6):
-                logging.debug('j is %s and k is %s', j, k)
-                potential_chapter_1 = sorted_content[j - k]
-                logging.debug('Potential_chapter_1 is: %s',
-                              potential_chapter_1)
-                if potential_chapter_1.startswith(r'\v 1 '):
-                    logging.debug(
-                        'Found chapter 1: %s',
-                        potential_chapter_1,
-                    )
+            if chapter_1_known is False:
+                logging.debug('Now trying to find chapter 1.')
+                for k in range(1, 6):
                     logging.debug('j is %s and k is %s', j, k)
+                    potential_chapter_1 = sorted_content[j - k]
+                    logging.debug('Potential_chapter_1 is: %s',
+                                  potential_chapter_1)
+                    if potential_chapter_1.startswith(r'\v 1 '):
+                        logging.debug(
+                            'found potential_chapter_1: %s',
+                            potential_chapter_1,
+                        )
+                        logging.debug('j is %s and k is %s', j, k)
+                        chapter_1_known = True
 
-                    for v in range(1, 4):
-                        if sorted_content[(j - k) + v].startswith('\\v 2 '):
-                            false_chapter_2 = sorted_content[(j - k) + v]
-                            logging.debug('false_chapter_2 found: %s',
-                                          false_chapter_2)
-                            break
+                        for v in range(1, 4):
+                            if sorted_content[(j - k)
+                                              + v].startswith('\\v 2 '):
+                                false_chapter_2 = sorted_content[(j - k) + v]
+                                logging.debug('false_chapter_2 found: %s',
+                                              false_chapter_2)
+                                break
 
-                    c1 = r'\c 1'
+                        c1 = r'\c 1'
 
-                    if not sorted_content[(j - k) - 1].startswith('\\'):
-                        old_string = sorted_content[(j - k) - 1]
-                        new_string = '\\ms ' + old_string
-                        sorted_content.pop((j - k) - 1)
-                        sorted_content.insert((j - k) - 1, new_string)
+                        if not sorted_content[(j - k) - 1].startswith('\\'):
+                            old_string = sorted_content[(j - k) - 1]
+                            new_string = '\\ms ' + old_string
+                            sorted_content.pop((j - k) - 1)
+                            sorted_content.insert((j - k) - 1, new_string)
 
-                        sorted_content.insert(j - k, P)
-                        sorted_content.insert((j - k) - 1, c1)
-                    else:
-                        sorted_content.insert(j - k, P)
-                        sorted_content.insert(j - k, c1)
-                    break
+                            sorted_content.insert(j - k, P)
+                            sorted_content.insert((j - k) - 1, c1)
+                        else:
+                            sorted_content.insert(j - k, P)
+                            sorted_content.insert(j - k, c1)
+                        break
             j += 1
 
     numbered_content = sorted_content
-    return (numbered_content, false_chapter_2)
+    return (numbered_content, chapter_1_known, false_chapter_2, j)
 
 
 def find_the_rest(numbered_content, false_chapter_2):
