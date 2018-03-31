@@ -39,7 +39,7 @@
 - [x] 37 Neḥemyah (Nehemiah)
 - [x] 38 Divrei Ha'Yamim א (1 Chronicles)
 - [x] 39 Divrei Ha'Yamim ב (2 Chronicles)
-- [] 40 Mattithyahu (Matthew)
+- [x] 40 Mattithyahu (Matthew)
 - [] 41 Markos (Mark)
 - [] 42 Loukas (Luke)
 - [] 43 Yoḥanan (John)
@@ -106,5 +106,6 @@
 - [] 37 Neḥemyah (Nehemiah)
 - [] 38 Divrei Ha'Yamim א (1 Chronicles)
 - [] 39 Divrei Ha'Yamim ב (2 Chronicles)
+- [] 40 Mattithyahu (Matthew)
 ## Proof reading the following completed and marked up texts:
 - (No texts are yet completed and marked up.)
