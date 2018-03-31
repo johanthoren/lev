@@ -95,7 +95,7 @@ def find_1(sorted_content):
 
                         if not sorted_content[(j - k) - 1].startswith('\\'):
                             old_string = sorted_content[(j - k) - 1]
-                            new_string = '\\ms ' + old_string
+                            new_string = '\\s1 ' + old_string
                             sorted_content.pop((j - k) - 1)
                             sorted_content.insert((j - k) - 1, new_string)
 
