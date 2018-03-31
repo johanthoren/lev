@@ -41,7 +41,7 @@
 - [x] 39 Divrei Ha'Yamim ב (2 Chronicles)
 - [x] 40 Mattithyahu (Matthew)
 - [x] 41 Markos (Mark)
-- [] 42 Loukas (Luke)
+- [x] 42 Loukas (Luke)
 - [] 43 Yoḥanan (John)
 - [] 44 Ma'asei (Acts)
 - [] 45 Ya'aqov (James)
@@ -108,5 +108,6 @@
 - [] 39 Divrei Ha'Yamim ב (2 Chronicles)
 - [] 40 Mattithyahu (Matthew)
 - [] 41 Markos (Mark)
+- [] 42 Loukas (Luke)
 ## Proof reading the following completed and marked up texts:
 - (No texts are yet completed and marked up.)
