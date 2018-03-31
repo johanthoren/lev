@@ -46,7 +46,7 @@
 - [x] 44 Ma'asei (Acts)
 - [x] 45 Ya'aqov (James)
 - [x] 46 Kepha א (1 Peter)
-- [] 47 Kepha ב (2 Peter)
+- [x] 47 Kepha ב (2 Peter)
 - [] 48 Yoḥanan א (1 John)
 - [] 49 Yoḥanan ב (2 John)
 - [] 50 Yoḥanan ג (3 John)
@@ -113,5 +113,6 @@
 - [] 44 Ma'asei (Acts)
 - [] 45 Ya'aqov (James)
 - [] 46 Kepha א (1 Peter)
+- [] 47 Kepha ב (2 Peter)
 ## Proof reading the following completed and marked up texts:
 - (No texts are yet completed and marked up.)
