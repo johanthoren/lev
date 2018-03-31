@@ -124,7 +124,6 @@ def find_the_rest(numbered_content, false_chapter_2):
         for item in numbered_content:
             v2 = V2_RE.findall(item)
             if v2:
-                # logging.debug('item is:\n%s', item)
                 try:
                     for k in range(1, 4):
                         potential_chapter = numbered_content[j - k]
@@ -186,7 +185,7 @@ def clean_up(unclean_content):
             unclean_content.pop(i)
         elif not item.startswith('\\'):
             old_string = item
-            new_string = '\\ms ' + old_string
+            new_string = '\\s1 ' + old_string
             unclean_content.pop(i)
             unclean_content.insert(i, new_string)
         elif item.startswith('\c'):
