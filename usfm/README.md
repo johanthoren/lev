@@ -30,7 +30,7 @@
 - [x] 28 Tehillim (Psalms)
 - [x] 29 Mishlei (Proverbs)
 - [x] 30 Iyyov (Job)
-- [] 31 Shir Ha'Shirim (Song of Songs)
+- [x] 31 Shir Ha'Shirim (Song of Songs)
 - [] 32 Ruth
 - [] 33 Eikhah (Lamentations)
 - [] 34 Qoheleth (Ecclesiastes)
@@ -97,5 +97,6 @@
 - [] 28 Tehillim (Psalms)
 - [] 29 Mishlei (Proverbs)
 - [] 30 Iyyov (Job)
+- [] 31 Shir Ha'Shirim (Song of Songs)
 ## Proof reading the following completed and marked up texts:
 - (No texts are yet completed and marked up.)
