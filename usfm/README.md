@@ -43,7 +43,7 @@
 - [x] 41 Markos (Mark)
 - [x] 42 Loukas (Luke)
 - [x] 43 Yoḥanan (John)
-- [] 44 Ma'asei (Acts)
+- [x] 44 Ma'asei (Acts)
 - [] 45 Ya'aqov (James)
 - [] 46 Kepha א (1 Peter)
 - [] 47 Kepha ב (2 Peter)
@@ -110,5 +110,6 @@
 - [] 41 Markos (Mark)
 - [] 42 Loukas (Luke)
 - [] 43 Yoḥanan (John)
+- [] 44 Ma'asei (Acts)
 ## Proof reading the following completed and marked up texts:
 - (No texts are yet completed and marked up.)
