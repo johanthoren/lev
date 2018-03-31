@@ -140,7 +140,7 @@ def find_the_rest(numbered_content, false_chapter_2):
                                 'Testing if the verse is actually the first'
                                 'in the chapter: %s', potential_chapter)
                             first = False
-                            for l in range(1, 3):
+                            for l in range(1, 4):
                                 n_verse = numbered_content[(j - k) + l]
                                 logging.debug('...Testing: %s', n_verse)
                                 if n_verse.startswith(r'\v 2 '):
