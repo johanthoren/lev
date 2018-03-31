@@ -28,7 +28,7 @@
 - [x] 26 Malakhi (Malachi)
 - [x] 27 Dani'el (Daniel)
 - [x] 28 Tehillim (Psalms)
-- [] 29 Mishlei (Proverbs)
+- [x] 29 Mishlei (Proverbs)
 - [] 30 Iyyov (Job)
 - [] 31 Shir Ha'Shirim (Song of Songs)
 - [] 32 Ruth
@@ -95,5 +95,6 @@
 - [] 26 Malakhi (Malachi)
 - [] 27 Dani'el (Daniel)
 - [] 28 Tehillim (Psalms)
+- [] 29 Mishlei (Proverbs)
 ## Proof reading the following completed and marked up texts:
 - (No texts are yet completed and marked up.)
