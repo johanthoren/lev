@@ -33,7 +33,7 @@
 - [x] 31 Shir Ha'Shirim (Song of Songs)
 - [x] 32 Ruth
 - [x] 33 Eikhah (Lamentations)
-- [] 34 Qoheleth (Ecclesiastes)
+- [x] 34 Qoheleth (Ecclesiastes)
 - [] 35 Hadassah (Esther)
 - [] 36 Ezra
 - [] 37 Neḥemyah (Nehemiah)
@@ -100,5 +100,6 @@
 - [] 31 Shir Ha'Shirim (Song of Songs)
 - [] 32 Ruth
 - [] 33 Eikhah (Lamentations)
+- [] 34 Qoheleth (Ecclesiastes)
 ## Proof reading the following completed and marked up texts:
 - (No texts are yet completed and marked up.)
