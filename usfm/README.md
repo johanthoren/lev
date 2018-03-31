@@ -27,7 +27,7 @@
 - [x] 25 Zekharyah (Zechariah)
 - [x] 26 Malakhi (Malachi)
 - [x] 27 Dani'el (Daniel)
-- [] 28 Tehillim (Psalms)
+- [x] 28 Tehillim (Psalms)
 - [] 29 Mishlei (Proverbs)
 - [] 30 Iyyov (Job)
 - [] 31 Shir Ha'Shirim (Song of Songs)
@@ -94,5 +94,6 @@
 - [] 25 Zekharyah (Zechariah)
 - [] 26 Malakhi (Malachi)
 - [] 27 Dani'el (Daniel)
+- [] 28 Tehillim (Psalms)
 ## Proof reading the following completed and marked up texts:
 - (No texts are yet completed and marked up.)
