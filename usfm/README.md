@@ -36,7 +36,7 @@
 - [x] 34 Qoheleth (Ecclesiastes)
 - [x] 35 Hadassah (Esther)
 - [x] 36 Ezra
-- [] 37 Neḥemyah (Nehemiah)
+- [x] 37 Neḥemyah (Nehemiah)
 - [] 38 Divrei Ha'Yamim א (1 Chronicles)
 - [] 39 Divrei Ha'Yamim ב (2 Chronicles)
 - [] 40 Mattithyahu (Matthew)
@@ -103,5 +103,6 @@
 - [] 34 Qoheleth (Ecclesiastes)
 - [] 35 Hadassah (Esther)
 - [] 36 Ezra
+- [] 37 Neḥemyah (Nehemiah)
 ## Proof reading the following completed and marked up texts:
 - (No texts are yet completed and marked up.)
