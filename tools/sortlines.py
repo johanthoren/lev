@@ -53,6 +53,10 @@ def split_text(text_file):
                 sorted_content.append(r'\v {} {}'.format(
                     i[0].strip(), i[1].strip()))
             sorted_content.append(r'\p')
+        elif line.startswith('Selah'):
+            if sorted_content[-1].startswith(r'\p'):
+                sorted_content.pop(-1)
+            sorted_content.append(r'\qs {}\qs*'.format(line.strip()))
         else:
             sorted_content.append(line.strip())
     return sorted_content
