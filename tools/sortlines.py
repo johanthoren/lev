@@ -33,7 +33,8 @@ def main():
         else:
             raise Exception('Unable to find chapters 1 and 2')
 
-        final_content = clean_up(unclean_content)
+        clean_content = clean_up(unclean_content)
+        final_content = clean_up(clean_content)
 
         with open('{}_output.usfm'.format(text_file_name),
                   'w') as text_out_file:
@@ -188,6 +189,9 @@ def clean_up(unclean_content):
             new_string = '\\s1 ' + old_string
             unclean_content.pop(i)
             unclean_content.insert(i, new_string)
+            if unclean_content[i - 1].startswith('\p'):
+                unclean_content.pop(i - 1)
+                unclean_content.insert(i, r'\p')
         elif item.startswith('\c'):
             if unclean_content[i - 1].startswith('\p'):
                 unclean_content.pop(i - 1)
