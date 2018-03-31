@@ -26,7 +26,7 @@
 - [x] 24 Ḥaggai (Haggai)
 - [x] 25 Zekharyah (Zechariah)
 - [x] 26 Malakhi (Malachi)
-- [] 27 Dani'el (Daniel)
+- [x] 27 Dani'el (Daniel)
 - [] 28 Tehillim (Psalms)
 - [] 29 Mishlei (Proverbs)
 - [] 30 Iyyov (Job)
@@ -93,5 +93,6 @@
 - [] 24 Ḥaggai (Haggai)
 - [] 25 Zekharyah (Zechariah)
 - [] 26 Malakhi (Malachi)
+- [] 27 Dani'el (Daniel)
 ## Proof reading the following completed and marked up texts:
 - (No texts are yet completed and marked up.)
