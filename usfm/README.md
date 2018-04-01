@@ -59,7 +59,7 @@
 - [x] 57 Philippesious (Philippians)
 - [x] 58 Kolossaeis (Colossians)
 - [x] 59 Thessalonikeis a (1 Thessalonians)
-- [] 60 Thessalonikeis b (2 Thessalonians)
+- [x] 60 Thessalonikeis b (2 Thessalonians)
 - [] 61 Timotheon a (1 Timothy)
 - [] 62 Timotheon b (2 Timothy)
 - [] 63 Titus
@@ -126,5 +126,6 @@
 - [] 57 Philippesious (Philippians)
 - [] 58 Kolossaeis (Colossians)
 - [] 59 Thessalonikeis a (1 Thessalonians)
+- [] 60 Thessalonikeis b (2 Thessalonians)
 ## Proof reading the following completed and marked up texts:
 - (No texts are yet completed and marked up.)
