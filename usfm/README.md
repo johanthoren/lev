@@ -54,7 +54,7 @@
 - [x] 52 Romaious (Romans)
 - [x] 53 Korinthious a (1 Corinthians)
 - [x] 54 Korinthious b (2 Corinthians)
-- [] 55 Galatas (Galatians)
+- [x] 55 Galatas (Galatians)
 - [] 56 Ephesious (Ephesians)
 - [] 57 Philippesious (Philippians)
 - [] 58 Kolossaeis (Colossians)
@@ -121,5 +121,6 @@
 - [] 52 Romaious (Romans)
 - [] 53 Korinthious a (1 Corinthians)
 - [] 54 Korinthious b (2 Corinthians)
+- [] 55 Galatas (Galatians)
 ## Proof reading the following completed and marked up texts:
 - (No texts are yet completed and marked up.)
