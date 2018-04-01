@@ -29,8 +29,12 @@ def main():
         false_chapter_2 = first_and_second[2]
 
         if chapter_1_known is True:
-            unclean_content = find_the_rest(numbered_content, false_chapter_2)
+            if false_chapter_2 is not None:
+                unclean_content = find_the_rest(numbered_content, false_chapter_2)
+            else:
+                continue
         else:
+            logging.debug('chapter_1_known is %s', chapter_1_known)
             raise Exception('Unable to find chapters 1 and 2')
 
         clean_content = clean_up(unclean_content)
@@ -66,6 +70,7 @@ def split_text(text_file):
 def find_1(sorted_content):
     j = 0
     chapter_1_known = False
+    false_chapter_2 = None
     for item in sorted_content:
         v2 = V2_RE.findall(item)
         if v2:
