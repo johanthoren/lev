@@ -50,7 +50,7 @@
 - [x] 48 Yoḥanan א (1 John)
 - [x] 49 Yoḥanan ב (2 John)
 - [x] 50 Yoḥanan ג (3 John)
-- [] 51 Yehudah (Jude)
+- [x] 51 Yehudah (Jude)
 - [] 52 Romaious (Romans)
 - [] 53 Korinthious a (1 Corinthians)
 - [] 54 Korinthious b (2 Corinthians)
@@ -117,5 +117,6 @@
 - [] 48 Yoḥanan א (1 John)
 - [] 49 Yoḥanan ב (2 John)
 - [] 50 Yoḥanan ג (3 John)
+- [] 51 Yehudah (Jude)
 ## Proof reading the following completed and marked up texts:
 - (No texts are yet completed and marked up.)
