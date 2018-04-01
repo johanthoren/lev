@@ -64,7 +64,7 @@
 - [x] 62 Timotheon b (2 Timothy)
 - [x] 63 Titus
 - [x] 64 Philemon
-- [] 65 Ivrim (Hebrews)
+- [x] 65 Ivrim (Hebrews)
 - [] 66 Hit'galut (Revelation)
 ## Add markup to the following completed texts:
 - [] 01 Bereshiyt (Genesis) WORK IN PROGRESS
@@ -131,5 +131,6 @@
 - [] 62 Timotheon b (2 Timothy)
 - [] 63 Titus
 - [] 64 Philemon
+- [] 65 Ivrim (Hebrews)
 ## Proof reading the following completed and marked up texts:
 - (No texts are yet completed and marked up.)
