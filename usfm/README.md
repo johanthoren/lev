@@ -57,7 +57,7 @@
 - [x] 55 Galatas (Galatians)
 - [x] 56 Ephesious (Ephesians)
 - [x] 57 Philippesious (Philippians)
-- [] 58 Kolossaeis (Colossians)
+- [x] 58 Kolossaeis (Colossians)
 - [] 59 Thessalonikeis a (1 Thessalonians)
 - [] 60 Thessalonikeis b (2 Thessalonians)
 - [] 61 Timotheon a (1 Timothy)
@@ -124,5 +124,6 @@
 - [] 55 Galatas (Galatians)
 - [] 56 Ephesious (Ephesians)
 - [] 57 Philippesious (Philippians)
+- [] 58 Kolossaeis (Colossians)
 ## Proof reading the following completed and marked up texts:
 - (No texts are yet completed and marked up.)
