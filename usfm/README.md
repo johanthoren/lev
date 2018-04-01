@@ -63,7 +63,7 @@
 - [x] 61 Timotheon a (1 Timothy)
 - [x] 62 Timotheon b (2 Timothy)
 - [x] 63 Titus
-- [] 64 Philemon
+- [x] 64 Philemon
 - [] 65 Ivrim (Hebrews)
 - [] 66 Hit'galut (Revelation)
 ## Add markup to the following completed texts:
@@ -130,5 +130,6 @@
 - [] 61 Timotheon a (1 Timothy)
 - [] 62 Timotheon b (2 Timothy)
 - [] 63 Titus
+- [] 64 Philemon
 ## Proof reading the following completed and marked up texts:
 - (No texts are yet completed and marked up.)
