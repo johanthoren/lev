@@ -2,7 +2,7 @@
 ## Add the following texts and sort lines into chapter and verse:
 DONE (All main texts have been added!)
 ## Add markup to the following completed texts:
-- [] 01 Bereshiyt (Genesis) WORK IN PROGRESS
+- [x] 01 Bereshiyt (Genesis)
 - [] 02 Shemoth (Exodus)
 - [] 03 Vayyiqra (Leviticus)
 - [] 04 Bemidbar (Numbers)
@@ -69,5 +69,6 @@ DONE (All main texts have been added!)
 - [] 65 Ivrim (Hebrews)
 - [] 66 Hit'galut (Revelation)
 ## Proof reading the following completed and marked up texts:
+- [] 01 Bereshiyt (Genesis)
 - [] 63 Titus
 - [] 64 Philemon
