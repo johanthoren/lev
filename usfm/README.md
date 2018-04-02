@@ -3,7 +3,7 @@
 DONE (All main texts have been added!)
 ## Add markup to the following completed texts:
 - [x] 01 Bereshiyt (Genesis)
-- [] 02 Shemoth (Exodus)
+- [] 02 Shemoth (Exodus) **WORK IN PROGRESS**
 - [] 03 Vayyiqra (Leviticus)
 - [] 04 Bemidbar (Numbers)
 - [] 05 Devarim (Deuteronomy)
