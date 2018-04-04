@@ -22,12 +22,12 @@
 (setq usfm-highlights
       '(("\\\\v[[:space:]][1-9][0-9][0-9]\\|\\\\v[[:space:]][1-9][0-9]\\|\\\\v[[:space:]][1-9]" . font-lock-function-name-face)
         ("\\\\c[[:space:]][1-9][0-9][0-9]\\|\\\\c[[:space:]][1-9][0-9]\\|\\\\c[[:space:]][1-9]" . font-lock-keyword-face)
-        ("\\(\\\\ft[[:space:]]\\)\\(.*\\)\\(\\\\f\\*\\)" . font-lock-negation-char-face)
-        ("\\\\fk\\|\\\\fr\\|\\\\ft\\|\\\\f\\*\\|\\\\f" . font-lock-keyword-face)
-        ("\\\\ide\\|\\\\id\\|\\\\toc[0-3]\\|\\\\mt[0-3]\\|\\\\sts\\|\\\\rem" . font-lock-type-face)
-        ("\\\\q[1-3]" . font-lock-constant-face)
-        ("\\\\add\\*\\|\\\\add[[:space:]]" . font-lock-constant-face)
-        ("\\\\ms\\|\\\\s[1-3]\\|\\\\p\\|\\\\b" . font-lock-variable-name-face)
+        ("\\(\\\\ft[[:space:]]\\)\\(.*\\)\\(\\\\f\\*[[:space:]]\\)" . font-lock-negation-char-face)
+        ("\\\\fk[[:space:]]\\|\\\\fr[[:space:]]\\|\\\\ft[[:space:]]\\|\\\\f\\*[[:space:]]\\|\\\\f[[:space:]]" . font-lock-keyword-face)
+        ("\\\\ide[[:space:]]\\|\\\\id[[:space:]]\\|\\\\toc[0-3][[:space:]]\\|\\\\mt[0-3][[:space:]]\\|\\\\sts[[:space:]]\\|\\\\rem[[:space:]]" . font-lock-type-face)
+        ("\\\\q[1-3][[:space:]]" . font-lock-constant-face)
+        ("\\\\add\\*[[:space:]]\\|\\\\add[[:space:]]" . font-lock-constant-face)
+        ("\\\\ms[[:space:]]\\|\\\\s[1-3][[:space:]]\\|\\\\p\\|\\\\b" . font-lock-variable-name-face)
         ))
 
 (define-derived-mode usfm-mode text-mode "usfm"
