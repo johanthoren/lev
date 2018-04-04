@@ -26,7 +26,7 @@
         ("\\\\fk[[:space:]]\\|\\\\fr[[:space:]]\\|\\\\ft[[:space:]]\\|\\\\f\\*[[:space:]]\\|\\\\f[[:space:]]" . font-lock-keyword-face)
         ("\\\\ide[[:space:]]\\|\\\\id[[:space:]]\\|\\\\toc[0-3][[:space:]]\\|\\\\mt[0-3][[:space:]]\\|\\\\sts[[:space:]]\\|\\\\rem[[:space:]]" . font-lock-type-face)
         ("\\\\q[1-3][[:space:]]" . font-lock-constant-face)
-        ("\\\\add\\*[[:space:]]\\|\\\\add[[:space:]]" . font-lock-constant-face)
+        ("\\\\add\\*\\|\\\\add[[:space:]]" . font-lock-constant-face)
         ("\\\\ms[[:space:]]\\|\\\\s[1-3][[:space:]]\\|\\\\p\\|\\\\b" . font-lock-variable-name-face)
         ))
 
