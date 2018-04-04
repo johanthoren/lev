@@ -26,6 +26,7 @@
         ("\\\\fk\\|\\\\fr\\|\\\\ft\\|\\\\f\\*\\|\\\\f" . font-lock-keyword-face)
         ("\\\\ide\\|\\\\id\\|\\\\toc[0-3]\\|\\\\mt[0-3]\\|\\\\sts\\|\\\\rem" . font-lock-type-face)
         ("\\\\q[1-3]" . font-lock-constant-face)
+        ("\\\\add\\*\\|\\\\add" . font-lock-constant-face)
         ("\\\\ms\\|\\\\s[1-3]\\|\\\\p\\|\\\\b" . font-lock-variable-name-face)
         ))
 
