@@ -52,7 +52,7 @@ Here is an example from Titus 1:7
 ### Final words about contributing
 Don't be afraid to contribute. If it sounds to technical, contact me at <johan@thoren.xyz> and I can work with you to get you up and running. I'm also willing to spend some time on Skype or what ever suits you to get you up to speed. More eyes are needed, so help is not optional.
 ## Copyright
-The author(s) of this repository is not claiming ownership or copyright over the source material. Any instance where the text deviates from the released version should be reported as a bug. This is not a fork, but an effort to format the text in appliance with various formats such as USFM.
+The author(s) of this repository is not claiming ownership or copyright over the source material. Any instance where the text deviates from the released version should be reported as a bug unless the change is marked by a comment in the source code: `\rem This is a comment...`. This is not a fork, but an effort to format the text in appliance with various formats such as USFM.
 ### Original Copyright Notice
 ```
 Literal English Version of Scripture ~ LEV [2nd Edition] Copyright © 2016 by J.A. Brown
