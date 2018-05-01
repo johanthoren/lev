@@ -1,6 +1,9 @@
 # Literal English Version (LEV)
 ## Purpose
 Repository for working with the Literal English Version (LEV) in the process of porting the translation to various formats.
+
+See the official website of LEV to read more about the translation:
+https://www.levbible.org
 ## Contribution
 Feel free to contribute! This will only be possible with cooperation.
 
