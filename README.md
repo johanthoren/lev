@@ -22,7 +22,7 @@ Altough it's possible to work on the same book as someone else, thanks to the wo
 Just fork and send me a pull request as with any project. Send me an email at <johan@thoren.xyz> letting me know what file you are working on if you want me to mark the book as "Work in progress".
 
 #### If you are not versed in git:
-Download the file corresponding with the book you want to work on. I recommend using Notepad++ for Windows if you want a program that is quick to get started with. If you have another editor of choice, then go ahead.
+Download the USFM file (https://github.com/johanthoren/lev/tree/master/usfm) corresponding with the book you want to work on. I recommend using Notepad++ for Windows if you want a program that is quick to get started with. If you have another editor of choice, then go ahead.
 
 Send me an email at <johan@thoren.xyz> and let me know what book you are working on and reply to me later, attaching the finished file. I'll take care of the git-stuff.
 
