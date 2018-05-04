@@ -7,7 +7,7 @@ DONE (All main texts have been added!)
 - [] 03 Vayyiqra (Leviticus) **WORK IN PROGRESS**
 - [] 04 Bemidbar (Numbers)
 - [] 05 Devarim (Deuteronomy)
-- [] 06 Yehoshua (Joshua)
+- [x] 06 Yehoshua (Joshua)
 - [] 07 Shofetim (Judges)
 - [] 08 Shemu'el א (1 Samuel)
 - [] 09 Shemu'el ב (2 Samuel)
@@ -71,5 +71,6 @@ DONE (All main texts have been added!)
 ## Proof reading the following completed and marked up texts:
 - [] 01 Bereshiyt (Genesis)
 - [] 02 Shemoth (Exodus)
+- [] 06 Yehoshua (Joshua)
 - [] 63 Titus
 - [] 64 Philemon
