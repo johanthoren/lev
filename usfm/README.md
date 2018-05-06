@@ -4,8 +4,8 @@ DONE (All main texts have been added!)
 ## Add markup to the following completed texts:
 - [x] 01 Bereshiyt (Genesis)
 - [x] 02 Shemoth (Exodus)
-- [] 03 Vayyiqra (Leviticus) **WORK IN PROGRESS**
-- [] 04 Bemidbar (Numbers)
+- [x] 03 Vayyiqra (Leviticus)
+- [] 04 Bemidbar (Numbers) **WORK IN PROGRESS**
 - [] 05 Devarim (Deuteronomy)
 - [x] 06 Yehoshua (Joshua)
 - [] 07 Shofetim (Judges)
@@ -71,6 +71,7 @@ DONE (All main texts have been added!)
 ## Proof reading the following completed and marked up texts:
 - [] 01 Bereshiyt (Genesis)
 - [] 02 Shemoth (Exodus)
+- [] 03 Vayyiqra (Leviticus)
 - [] 06 Yehoshua (Joshua)
 - [] 63 Titus
 - [] 64 Philemon
