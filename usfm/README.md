@@ -5,8 +5,8 @@ DONE (All main texts have been added!)
 - [x] 01 Bereshiyt (Genesis)
 - [x] 02 Shemoth (Exodus)
 - [x] 03 Vayyiqra (Leviticus)
-- [] 04 Bemidbar (Numbers) **WORK IN PROGRESS**
-- [] 05 Devarim (Deuteronomy)
+- [x] 04 Bemidbar (Numbers)
+- [] 05 Devarim (Deuteronomy) **WORK IN PROGRESS**
 - [x] 06 Yehoshua (Joshua)
 - [] 07 Shofetim (Judges)
 - [] 08 Shemu'el א (1 Samuel)
@@ -72,6 +72,7 @@ DONE (All main texts have been added!)
 - [] 01 Bereshiyt (Genesis)
 - [] 02 Shemoth (Exodus)
 - [] 03 Vayyiqra (Leviticus)
+- [] 04 Bemidbar (Numbers)
 - [] 06 Yehoshua (Joshua)
 - [] 63 Titus
 - [] 64 Philemon
