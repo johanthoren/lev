@@ -6,6 +6,7 @@
 \toc2 Psalms
 \toc3 Ps.
 \sts 1
+\rem Finished formatting of footnotes and \add notes. (Johan Thorén 2018-05-12 17:23 CEST)
 
 \c 1
 \p
@@ -40,13 +41,13 @@
 \qs Selah.\qs*
 \v 5 I lay down and slept. I awoke, for יהוה supports me.
 \v 6 I will not be afraid of tens of thousands of people who have set themselves against me on every side.
-\v 7 Arise, יהוה! Save me, my Elohim! For You have struck all of my enemies on the cheek. You have broken the teeth of the wicked.
+\v 7 Arise, יהוה! Save me, my Elohim! For You have struck all of my enemies on the cheek. You have broken the teeth\f + \fr 3:7 \fk "Broken the teeth" \ft Idiom meaning "made powerless."\f* of the wicked.
 \v 8 Salvation belongs to יהוה. Your blessing \add be\add* on Your people.
 \qs Selah.\qs*
 \c 4
 \p
 \d For the Chief Musician; on stringed instruments. A Psalm by David.
-\v 1 Answer me when I call, O Elohim of my righteousness. You enlarged me \add when I was in\add* distress. Be kind to me, and hear my prayer.
+\v 1 Answer me when I call, O Elohim of my righteousness. You enlarged\f + \fr 4:1 \ft Idiom meaning "set me free."\f* me \add when I was in\add* distress. Be kind to me, and hear my prayer.
 \v 2 You sons of men, how long shall my glory become dishonor? Will you love vanity, and seek after falsehood?
 \qs Selah.\qs*
 \v 3 But know that יהוה has set apart for Himself him who is kind: יהוה hears when I call to Him.
@@ -67,7 +68,7 @@
 \v 6 You will destroy those who speak lies. יהוה abhors the bloody and deceitful man.
 \v 7 But as for me, in the abundance of Your loving-loving-kindness I will come into Your house. I will bow down to Your set-apart Temple in fear of You.
 \v 8 Lead me, יהוה, in Your righteousness because of my enemies. Make Your way straight before my face.
-\v 9 For there is no stability in their mouth. Their heart is destruction. Their throat is an open tomb. They flatter with their tongue.
+\v 9 For there is no stability in their mouth. Their heart is destruction. Their throat is an open tomb.\f + \fr 5:9 \ft Idiom meaning "to speak deceitfully."\f* They flatter with their tongue.
 \v 10 \add Declare\add* them guilty, Elohim. Let them fall by their own counsels. Thrust them out in the multitude of their transgressions, for they have rebelled against You.
 \v 11 But let all those who take refuge in You rejoice. Let them always shout for joy, because You defend them. Let them also who love Your Name be joyful in You.
 \v 12 For You will bless the righteous. יהוה, You will surround him with acceptance as with a shield.
@@ -96,7 +97,7 @@
 \v 6 Arise, יהוה, in Your anger. Lift up Yourself against the rage of my adversaries. Awake for me. You have commanded judgment.
 \v 7 Let the congregation of the peoples surround You. Rule over them on high.
 \v 8 יהוה administers judgment to the peoples. Judge me, יהוה, according to my righteousness, and to my integrity that is in me.
-\v 9 Oh let the wickedness of the evil come to an end, but establish the righteous; their hearts and kidneys are searched by the righteous Elohim.
+\v 9 Oh let the wickedness of the evil come to an end, but establish the righteous; their hearts and kidneys\f + \fr 7:9 \ft Idioms meaning "thoughts" and "emotions" respectively.\f* are searched by the righteous Elohim.
 \v 10 My shield is with Elohim, who saves the upright in heart.
 \v 11 Elohim judges the righteous, yes, and El has indignation \add with the wicked\add* every day.
 \v 12 If a man does not turn back, He will sharpen His sword; He has bent and made ready His bow.
@@ -112,7 +113,7 @@
 \v 2 From the lips of babes and infants You have established strength, because of Your adversaries, that You might cause the enemy and the avenger to cease.
 \v 3 When I consider Your heavens, the work of Your fingers, the moon and the stars, which You have ordained;
 \v 4 what is man, that You think of him? What is the son of man, that You care for him?
-\v 5 For You have made him a little lower than Elohim, and crowned him with glory and honor.
+\v 5 For You have made him a little lower than Elohim,\f + \fr 8:5 \ft Heb. MT contains the word אלהים (elohim) as it is here. Notice this is not the word מלאך (malak) which means "messenger." LXX uses the word αγγελος (angelos) which does mean "messenger." Syr. agrees with the Septuagint, rendering it ܡܠܐܟܐ (malaka), meaning "messenger." Lat. agrees with the Masoretic, rendering it with the Latin word Deo, the equivalent to the singular form El. See also Ivrim 2:7.\f* and crowned him with glory and honor.
 \v 6 You make him ruler over the works of Your hands. You have put all things under his feet:
 \v 7 All sheep and cattle, yes, and the animals of the field,
 \v 8 The birds of the heavens, the fish of the sea, and whatever passes through the paths of the seas.
@@ -234,7 +235,7 @@
 \v 5 My steps have held fast to Your paths. My feet have not slipped.
 \v 6 I have called on You, for You will answer me, El. Turn Your ear to me. Hear my speech.
 \v 7 Show Your marvelous loving-kindness, You who save those who take refuge by Your right hand from their enemies.
-\v 8 Guard me as the little man of \add the\add* daughter of \add the\add* eye. Hide me under the shadow of Your wings,
+\v 8 Guard me as the little man\f + \fr 17:8 \fk "Little man" \ft Idiom meaning "pupil." Word in Hebrew is אישון (ishon), derived from איש (ish), meaning "man."\f* of \add the\add* daughter of \add the\add* eye. Hide me under the shadow of Your wings,
 \v 9 from the wicked who oppress me, my deadly enemies, who surround me.
 \v 10 They close up their callous hearts. With their mouth they speak proudly.
 \v 11 They have now surrounded us in our steps. They set their eyes to cast us down to the earth.
@@ -360,7 +361,7 @@
 \v 13 They open their mouths wide against me, lions tearing prey and roaring.
 \v 14 I am poured out like water. All my bones are out of joint. My heart is like wax; it is melted in my gut.
 \v 15 My strength is dried up like a potsherd. My tongue sticks to the roof of my mouth. You have brought me into the dust of death.
-\v 16 For dogs have surrounded me. A company of evildoers have enclosed me. They have pierced my hands and feet.
+\v 16 For dogs have surrounded me. A company of evildoers have enclosed me. They have pierced my hands and feet.\f + \fr 22:16 \ft Some Heb. MT manuscripts read, "Like a lion, they are at my hands and feet." However, various other versions such as the LXX, Syr. and DSS all agree with the rendering above.\f*
 \v 17 I can count all of my bones. They look and stare at me.
 \v 18 They divide my garments among them. They cast lots for my clothing.
 \v 19 But do not be far off, יהוה. You are my help: hurry to help me.
@@ -402,8 +403,8 @@
 \c 25
 \p
 \d By David.
-\qa א (Alef)
-\v 1 To You, יהוה, do I lift up my being.
+\qa א (Alef)\f + \fr 25:1 \ft Tehillim 25 is known as an acrostic psalm. That is, the first Hebrew letter of each sentence begins with a successive letter of the Hebrew Alef-Bet. For example, the first sentence begins with an Alef, while the second sentence begins with a Bet, and the third a Gimel, and so on.\f*
+\v 1 To You, יהוה, do I lift up my being.\f + \fr 25:1 \ft Idiom meaning "to pray."\f*
 \p
 \qa ב (Bet)
 \v 2 My Elohim, I have relied on You. Do not let me be shamed. Do not let my enemies triumph over me.
@@ -415,7 +416,7 @@
 \v 4 Show me Your ways, יהוה. Teach me Your paths.
 \p
 \qa ה (Hey)
-\v 5 Guide me in Your truth, and teach me, for You are the Elohim of my salvation, I wait for You all day long.
+\v 5 Guide me in Your truth,\f + \fr 25:5 \ft See Yoḥanan 16:13.\f* and teach me, for You are the Elohim of my salvation, I wait for You all day long.
 \p
 \qa ו (Vav)
 \v 6 יהוה, remember Your compassion and Your loving-kindness, for they are from old.
@@ -612,7 +613,7 @@
 \p
 \d By David; when he pretended to be insane before Avimelekh, who drove him away, and he departed.
 \p
-\qa א (Alef)
+\qa א (Alef)\f + \fr 34:1 \ft Tehillim 34 is known as an acrostic psalm. That is, the first Hebrew letter of each sentence begins with a successive letter of the Hebrew Alef-Bet. For example, the first sentence begins with an Alef, while the second sentence begins with a Bet, and the third a Gimel, and so on.\f*
 \v 1 I will bless יהוה at all times. His praise will always be in my mouth.
 \p
 \qa ב (Bet)
@@ -726,7 +727,7 @@
 \c 37
 \p
 \d By David.
-\qa א (Alef)
+\qa א (Alef)\f + \fr 37:1 \ft Tehillim 37 is known as an acrostic psalm. That is, the first Hebrew letter of each sentence begins with a successive letter of the Hebrew Alef-Bet. For example, the first sentence begins with an Alef, while the second sentence begins with a Bet, and the third a Gimel, and so on. This one, however, appears to be lacking a sentence beginning with Ayin (ע).\f*
 \v 1 Do not fret because of evildoers, neither be envious against those who work unrighteousness.
 \v 2 For they shall soon be cut down like the grass, and wither like the green herb.
 \p
@@ -782,7 +783,7 @@
 \p
 \qa ס (Samekh)
 \v 27 Depart from evil, and do good. Dwell \add safely\add* forever.
-\v 28 For יהוה loves judgment, and does not forsake His set-apart ones. They are preserved forever, but the seed of the wicked shall be cut off.
+\v 28 For יהוה loves judgment, and does not forsake His set-apart ones. They are preserved forever, but\f + \fr 37:28 \ft LXX and Lat. add, "the lawless ones shall be removed."\f* the seed of the wicked shall be cut off.
 \v 29 The righteous shall inherit the land, and dwell in it forever.
 \p
 \qa פ (Pe)
@@ -841,7 +842,7 @@
 \v 4 "יהוה, show me my end, what is the measure of my days. Let me know how frail I am.
 \v 5 Behold, You have made my days hand widths. My lifetime is as nothing before You. Surely every man stands as a breath."
 \qs Selah.\qs*
-\v 6 "Surely every man walks in a shadow. Surely they busy themselves in vain. He heaps up, and does not know who shall gather.
+\v 6 "Surely every man walks in a shadow.\f + \fr 39:6 \fk Shadow \ft Literally "an image."\f* Surely they busy themselves in vain. He heaps up, and does not know who shall gather.
 \v 7 Now, יהוה, what do I wait for? My hope is in You.
 \v 8 Deliver me from all my transgressions. Do not make me the reproach of the foolish.
 \v 9 I was mute. I did not open my mouth, because You did it.
@@ -858,7 +859,7 @@
 \v 3 He has put a new song in my mouth, even praise to our Elohim. Many shall see it, and fear, and shall rely on יהוה.
 \v 4 Blessed is the man who makes יהוה his trust, and does not respect the proud, nor such as turn aside to lies.
 \v 5 Many, יהוה, my Elohim, are the wonderful works which You have done, and Your thoughts which are toward us. They cannot be declared back to You. If I would declare and speak of them, they are more than can be counted.
-\v 6 Sacrifice and offering You did not desire, but a body You have prepared for me. You have not required ascension offering and sin offering.
+\v 6 Sacrifice and offering You did not desire, but a body You have prepared for me.\f + \fr 40:6 \ft Heb. MT, Lat. and Syr. read, "Slaughtering You did not desire, but my ears You have dug." The LXX contains the verse as it is written above. However, we also find support for the Septuagint's translation in Ivrim 10:6, which quotes this verse as "…a body You have prepared for me." It is possible that the writer of the book of Ivrim was quoting the Septuagint, or perhaps an older Hebrew text on which the Septuagint was based that also read the same.\f* You have not required ascension offering and sin offering.
 \v 7 Then I said, "Behold, I have come. It is written about me in the book in the scroll.
 \v 8 I delight to do Your will, my Elohim. Yes, Your Torah is within my gut."
 \v 9 I have proclaimed glad news of righteousness in the great assembly. Behold, I will not seal my lips, יהוה, You know.
@@ -881,7 +882,7 @@
 \v 6 If he comes to see me, he speaks falsehood. His heart gathers vain exertion to itself. When he goes abroad, he tells it.
 \v 7 All who hate me whisper together against me. They imagine the worst for me.
 \v 8 "A worthless thing", they say, "has afflicted him. Now that he lies he shall rise up no more."
-\v 9 Yes, my own familiar friend, on whom I relied, who ate bread with me, has lifted up his heel against me.
+\v 9 Yes, my own familiar friend, on whom I relied, who ate bread with me, has lifted up his heel\f + \fr 41:9 \ft Ideom meaning "to turn against."\f* against me.
 \v 10 But You, יהוה, be kind to me, and raise me up, that I may repay them.
 \v 11 By this I know that You delight in me, because my enemy does not triumph over me.
 \v 12 As for me, You uphold me in my integrity, and set me in Your presence forever.
@@ -929,7 +930,7 @@
 \v 16 At the taunt of one who reproaches and verbally abuses, because of the enemy and the avenger.
 \v 17 All this has come on us, yet have we not forgotten You, neither have we been false to Your covenant.
 \v 18 Our heart has not turned back, neither have our steps strayed from Your path,
-\v 19 Though You have crushed us in the haunt of monsters, and covered us with the shadow of death.
+\v 19 Though You have crushed us in the haunt of monsters,\f + \fr 44:19 \ft See footnote at Yeshayahu 13:22.\f* and covered us with the shadow of death.
 \v 20 If we have forgotten the Name of our El, or spread out our hands to a strange el;
 \v 21 will not Elohim search this out? For He knows the secrets of the heart.
 \v 22 Yes, for Your sake we are killed all day long. We are regarded as sheep for the slaughter.
@@ -1266,7 +1267,7 @@
 \v 7 For You have been my help. I will rejoice in the shadow of Your wings.
 \v 8 My being stays close to You. Your right hand holds me up.
 \v 9 But those who seek my being, to make it desolate, shall go into the lower parts of the earth.
-\v 10 They shall be given over to the power of the sword. They shall be monster food.
+\v 10 They shall be given over to the power of the sword. They shall be monster\f + \fr 63:10 \ft See footnote at Yeshayahu 13:22.\f* food.
 \v 11 But the king shall rejoice in Elohim. Everyone who swears by Him will praise Him, for the mouth of those who speak lies shall be silenced.
 \c 64
 \p
@@ -1409,7 +1410,7 @@
 \v 28 Let them be blotted out of the book of life, and not be written with the righteous.
 \v 29 But I am in pain and distress. Let Your salvation, Elohim, protect me.
 \v 30 I will praise the Name of Elohim with a song, and will magnify Him with thanksgiving.
-\v 31 It will please יהוה better than an ox, or a bull that has horns and hoofs.
+\v 31 It will please יהוה better than an ox, or a bull that has horns\f + \fr 69:31 \ft See also Shemoth 34:29.\f* and hoofs.
 \v 32 The humble have seen it, and are glad. You who seek after Elohim, let Your heart live.
 \v 33 For יהוה hears the needy, and does not despise His captive people.
 \v 34 Let heavens and earth praise Him; the seas, and everything that moves therein!
@@ -1483,7 +1484,7 @@
 \v 6 Therefore pride is like a necklace around their neck. Violence covers them like a garment.
 \v 7 Their eyes bulge with fat. Their minds pass the limits of conceit.
 \v 8 They scoff and speak with malice. In arrogance, they threaten oppression.
-\v 9 They have set their mouth in the heavens. Their tongue walks through the earth.
+\v 9 They have set their mouth in the heavens. Their tongue walks through the earth.\f + \fr 73:9 \ft Idiom meaning "Arrogantly give orders."\f*
 \v 10 Therefore their people return to them, and they drink up waters of abundance.
 \v 11 They say, "How does El know? Is there knowledge in Elyon?"
 \v 12 Behold, these are the wicked. Being always at ease, they increase in riches.
@@ -1547,7 +1548,7 @@
 \p
 \d For the Chief Musician. On stringed instruments. A Psalm by Asaph. A song.
 \v 1 In Yehudah, Elohim is known. His name is great in Yisra'el.
-\v 2 His Tabernacle is also in Shalem; His dwelling place in Tsion.
+\v 2 His Tabernacle is also in Shalem;\f + \fr 76:2 \fk Shalem \ft שלם – The old name for Yerushalayim. See also Bereshiyt 14:18 and Ivrim 7:2.\f* His dwelling place in Tsion.
 \v 3 There He broke the flaming arrows of the bow, the shield, and the sword, and the weapons of war.
 \qs Selah.\qs*
 \v 4 Glorious are You, and excellent, more than mountains of game.
@@ -1704,7 +1705,7 @@
 \d For the Chief Musician. On an instrument of Gath. By Asaph.
 \v 1 Sing aloud to Elohim, our strength! Make a joyful shout to the Elohim of Ya'aqov!
 \v 2 Raise a song, and bring here the tambourine, the pleasant lyre with the harp.
-\v 3 Blow the shofar in the New Moon, at the covered \add moon\add*, to our Feast \add day\add*.
+\v 3 Blow the shofar in the New Moon, at the covered\f + \fr 81:3 \ft Hebrew word כסא (keseh) here is typically translated as "full" [moon] though the word comes from כסה (kasah) meaning "covered."\f* \add moon\add*, to our Feast \add day\add*.
 \v 4 For it is a statute for Yisra'el, a judgment of the Elohim of Ya'aqov.
 \v 5 He appointed it in Yehoseph for a witness, when He went out over the land of Mitsrayim; I heard a language that I did not know.
 \v 6 "I removed his shoulder from the burden. His hands were freed from the basket.
@@ -1899,7 +1900,7 @@
 \qs Selah.\qs*
 \v 49 יהוה, where are Your former loving-kindnesses, which You swore to David in Your faithfulness?
 \v 50 Remember, יהוה, the reproach of Your servants, how I bear in my heart the taunts of all the mighty peoples,
-\v 51 with which Your enemies have mocked: יהוה, with which they have mocked the footsteps of Your anointed one.
+\v 51 with which Your enemies have mocked: יהוה, with which they have mocked the footsteps of Your anointed one.\f + \fr 89:51 \fk "Anointed one" \ft Hebrew word משיח (mash'iy'ach): "Messiah."\f*
 \v 52 Blessed be יהוה forever more. Amein, and Amein.
 \c 90 
 \p
@@ -1915,7 +1916,7 @@
 \v 9 For all our days have passed away in Your wrath. We bring our years to an end as a sigh.
 \v 10 The days of our years are seventy, or even by reason of strength eighty years; yet their pride is but toil and vain exertion, for it passes quickly, and we fly away.
 \v 11 Who knows the power of Your anger, Your wrath according to the fear that is due to You?
-\v 12 So teach us to number our days, that we may gain a heart of wisdom.
+\v 12 So teach us to number our days,\f + \fr 90:12 \ft Idiom meaning "use time wisely."\f* that we may gain a heart of wisdom.
 \v 13 Relent, יהוה! How long? Have compassion on Your servants!
 \v 14 Satisfy us in the morning with Your loving-kindness, that we may rejoice and be glad all our days.
 \v 15 Make us glad for as many days as You have afflicted us, for as many years as we have seen evil.
@@ -2024,7 +2025,7 @@
 \v 4 His lightning lights up the world. The earth sees, and trembles.
 \v 5 The mountains melt like wax at the presence of יהוה, at the presence of the Master of the whole earth.
 \v 6 The heavens declare His righteousness. All the peoples have seen His glory.
-\v 7 Let all them be shamed who serve engraved images, who boast in their idols. Bow down to Him, all you elohim!
+\v 7 Let all them be shamed who serve engraved images, who boast in their idols. Bow down to Him, all you elohim!\f + \fr 97:7 \ft LXX reads, "messengers" here instead of "elohim."\f*
 \v 8 Tsion heard and was glad. The daughters of Yehudah rejoiced, because of Your judgments, יהוה.
 \v 9 For You, יהוה, are Elyon above all the earth. You are exalted far above all elohim.
 \v 10 You who love יהוה, hate evil. He guards the beings of His set-apart ones. He delivers them out of the hand of the wicked.
@@ -2363,7 +2364,7 @@
 \v 1 יהוה says to my Master, "Sit at My right hand, until I make Your enemies Your footstool for Your feet."
 \v 2 יהוה will send out the rod of Your strength out of Tsion. Rule among Your enemies.
 \v 3 Your people offer themselves \add as\add* freewill offerings in the day of Your power, in set-apart array. Out of the womb of the morning, You have the dew of Your youth.
-\v 4 יהוה has sworn, and will not change His mind: "You are a priest forever according to My decree, Malkizedeq."
+\v 4 יהוה has sworn, and will not change His mind: "You are a priest forever according to My decree, Malkizedeq."\f + \fr 110:4 \ft So the Hebrew MT and some Syr. Other Syr. And LXX read, "…according to the likeness of Malkitsedeq."\f*
 \v 5 יהוה is at Your right hand. He will crush kings in the day of His wrath.
 \v 6 He will judge among the nations. He will heap up dead bodies. He will crush the ruler of the whole earth.
 \v 7 He will drink of the wadi on the way; therefore He will lift up His head.
@@ -2371,7 +2372,7 @@
 \p
 \v 1 Praise Yah!
 \p
-\qa א (Alef)
+\qa א (Alef)\f + \fr 111:1 \ft Tehillim 111 is known as an acrostic psalm. That is, the first Hebrew letter of each sentence begins with a successive letter of the Hebrew Alef-Bet. For example, the first sentence begins with an Alef, while the second sentence begins with a Bet, and the third a Gimel, and so on.\f*
 \v 1 I will give thanks to יהוה with my whole heart,
 \p 
 \qa ב (Bet)
@@ -2440,7 +2441,7 @@
 \p
 \v 1 Praise Yah!
 \p
-\qa א (Alef)
+\qa א (Alef)\f + \fr 112:1 \ft Tehillim 112 is known as an acrostic psalm. That is, the first Hebrew letter of each sentence begins with a successive letter of the Hebrew Alef-Bet. For example, the first sentence begins with an Alef, while the second sentence begins with a Bet, and the third a Gimel, and so on.\f*
 \q1 Blessed is the man who fears יהוה,
 \p
 \qa ב (Bet)
@@ -2604,7 +2605,7 @@
 \v 29 Oh give thanks to יהוה, for He is good, for His loving-kindness endures forever.
 \c 119 
 \p
-\qa א (Alef)
+\qa א (Alef)\f + \fr 119:1 \ft Tehillim 119 is known as an acrostic psalm. That is, the first Hebrew letter of each sentence begins with a successive letter of the Hebrew Alef-Bet. For example, the first sentence begins with an Alef, while the second sentence begins with a Bet, and the third a Gimel, and so on\f*
 \v 1 Blessed are those whose ways are blameless, who walk according to the Torah of יהוה.
 \v 2 Blessed are those who preserve His witnesses, who seek Him with their whole heart.
 \v 3 Yes, they do no unrighteousness. They walk in His ways.
@@ -2948,7 +2949,7 @@
 \v 7 "We will go into His dwelling place. We will bow down at His footstool.
 \v 8 Arise, יהוה, into Your resting place; You, and the ark of Your strength.
 \v 9 Let Your priests be clothed with righteousness. Let Your set-apart ones shout for joy!"
-\v 10 For Your servant David's sake, do not turn away the face of Your anointed one.
+\v 10 For Your servant David's sake, do not turn away the face of Your anointed one.\f + \fr 132:10 \fk "Anointed one" \ft Hebrew word משיח (mash'iy'ach): "Messiah."\f*
 \v 11 יהוה has sworn to David in truth. He will not turn from it: "I will set the fruit of your belly on your throne.
 \v 12 If your children will guard My covenant, My witness that I will teach them, their children also will sit on your throne forever more."
 \v 13 For יהוה has chosen Tsion. He has desired it for His habitation.
@@ -3034,7 +3035,7 @@
 \c 138 
 \p
 \d By David.
-\v 1 I will give You thanks with my whole heart. Before the elohim, I will sing praises to You.
+\v 1 I will give You thanks with my whole heart. Before the elohim, I will sing praises to You.\f + \fr 138:1 \ft DSS reads, "I will give thanks to יהוה with my whole heart. I will sing praises to יהוה Elohim." here.\f*
 \v 2 I will bow down toward Your set-apart Temple, and give thanks to Your Name for Your loving-kindness and for Your truth; for You have exalted Your Name and Your speeches above all.
 \v 3 In the day that I called, You answered me. You assured me with strength in my being.
 \v 4 All the kings of the earth will give You thanks, יהוה, for they have heard the speeches of Your mouth.
@@ -3149,7 +3150,7 @@
 \p
 \d A praise psalm by David.
 \p
-\qa א (Alef)
+\qa א (Alef)\f + \fr 145:1 \ft Tehillim 145 is known as an acrostic psalm. That is, the first Hebrew letter of each sentence begins with a successive letter of the Hebrew Alef-Bet. For example, the first sentence begins with an Alef, while the second sentence begins with a Bet, and the third a Gimel, and so on. However, the letter Nun (נ) has been omitted from the Heb. MT.\f*
 \v 1 I will exalt You, my Eloah, the King. I will praise Your Name forever and ever.
 \p
 \qa ב (Bet)
@@ -3189,7 +3190,8 @@
 \v 13 Your kingdom is an everlasting kingdom. Your dominion endures throughout all generations.
 \p
 \qa נ (Nun)
-\q1 [יהוה is faithful in all His words, and loving in all His deeds.]
+\q1 [יהוה is faithful in all His words, and loving in all His deeds.]\f + \fr 145:13 \ft See note on Tehillim 145:1. In the DSS, the bracketed section above was found, which does begin with the letter Nun (נ), thus completing the acrostic. The bracketed reading is also attested in the LXX, Lat., and Syr..\f*
+\rem Note. I split the footnote above in 2 and posted the first part with Tehillim 145:1. (Johan Thorén 2018-05-12 17:22 CEST)
 \p
 \qa ס (Samekh)
 \v 14 יהוה supports all who fall, and raises up all those who are bowed down.
