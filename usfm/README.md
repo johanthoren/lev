@@ -29,7 +29,7 @@ DONE (All main texts have been added!)
 - [] 25 Zekharyah (Zechariah)
 - [] 26 Malakhi (Malachi)
 - [] 27 Dani'el (Daniel)
-- [] 28 Tehillim (Psalms) **WORK IN PROGRESS**
+- [x] 28 Tehillim (Psalms)
 - [] 29 Mishlei (Proverbs)
 - [] 30 Iyyov (Job)
 - [] 31 Shir Ha'Shirim (Song of Songs)
@@ -75,5 +75,6 @@ DONE (All main texts have been added!)
 - [] 04 Bemidbar (Numbers)
 - [] 05 Devarim (Deuteronomy)
 - [] 06 Yehoshua (Joshua)
+- [] 28 Tehillim (Psalms)
 - [] 63 Titus
 - [] 64 Philemon
