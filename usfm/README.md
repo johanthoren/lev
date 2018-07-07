@@ -13,7 +13,7 @@ DONE (All main texts have been added!)
 - [] 09 Shemu'el ב (2 Samuel)
 - [] 10 Melakhim א (1 Kings)
 - [] 11 Melakhim ב (2 Kings)
-- [] 12 Yeshayahu (Isaiah)
+- [] 12 Yeshayahu (Isaiah) **IN PROGRESS**
 - [] 13 Yirmeyahu (Jeremiah)
 - [] 14 Yeḥezqel (Ezekiel)
 - [] 15 Hoshea (Hosea)
